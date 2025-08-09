@@ -3,7 +3,6 @@
 A Python-based **real-time blink detection system** using **OpenCV** and **MediaPipe Face Mesh**, featuring **auto-calibration**, **noise reduction**, and **stability checks** for high
 accuracy. This project is ideal for **human-computer interaction**, **driver drowsiness detection**, and **eye-based activity tracking**.
 
----
 
 ## 📌 Features
 
@@ -14,7 +13,6 @@ accuracy. This project is ideal for **human-computer interaction**, **driver dro
 - **Smoothed EAR Values** — Reduces jitter using a rolling average.
 - **Full-Screen Display** — Immersive real-time video output.
 
----
 
 ## 🛠️ Requirements
 
@@ -22,7 +20,6 @@ Make sure you have **Python 3.7+** installed, then install the dependencies:
 
 pip install opencv-python mediapipe numpy
 
----
 
 🚀 How to Run
 
@@ -41,7 +38,6 @@ The system will auto-calibrate EAR thresholds.
 4. Controls
 Press q or Esc to quit.
 
----
 
 📷 How It Works
 
@@ -78,21 +74,24 @@ You can adjust parameters in the config section of the script:
 
 
 🖼️ Example Output
+
 - Blink Count displayed on the video feed.
 - Stability indicator showing if face is stable.
 - EAR values for debugging.
 
----
 
 💡 Use Cases
+
 - Driver drowsiness detection
 - Eye fatigue monitoring
 - Human-computer interaction (HCI) research
 - Assistive technologies
 
 📜 License
+
 This project is licensed under the MIT License — see the LICENSE file for details.
 
 🙌 Acknowledgements
+
 - OpenCV for computer vision tools.
 - MediaPipe for fast and accurate face/eye landmark detection.
