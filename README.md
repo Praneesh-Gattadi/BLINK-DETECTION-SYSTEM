@@ -72,6 +72,7 @@ You can adjust parameters in the config section of the script:
 | `MAX_BLINK_DUR`          | `0.5`   | Maximum blink duration (seconds)              |
 
 📂 Project Structure
+
 ├── blink_detection.py   # Main script               
 ├── README.md            # Project documentation   
 
