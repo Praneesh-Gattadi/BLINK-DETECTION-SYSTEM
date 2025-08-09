@@ -1,4 +1,4 @@
-# Blink-Detection-System
+# BLINK-DETECTION-SYSTEM
 
 A Python-based **real-time blink detection system** using **OpenCV** and **MediaPipe Face Mesh**, featuring **auto-calibration**, **noise reduction**, and **stability checks** for high
 accuracy. This project is ideal for **human-computer interaction**, **driver drowsiness detection**, and **eye-based activity tracking**.
