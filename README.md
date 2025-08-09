@@ -85,14 +85,14 @@ You can adjust parameters in the config section of the script:
 ---
 
 💡 Use Cases
-Driver drowsiness detection
-Eye fatigue monitoring
-Human-computer interaction (HCI) research
-Assistive technologies
+- Driver drowsiness detection
+- Eye fatigue monitoring
+- Human-computer interaction (HCI) research
+- Assistive technologies
 
 📜 License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
 🙌 Acknowledgements
-OpenCV for computer vision tools.
-MediaPipe for fast and accurate face/eye landmark detection.
+- OpenCV for computer vision tools.
+- MediaPipe for fast and accurate face/eye landmark detection.
