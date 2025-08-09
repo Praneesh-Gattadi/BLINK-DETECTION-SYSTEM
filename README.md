@@ -24,7 +24,7 @@ pip install opencv-python mediapipe numpy
 🚀 How to Run
 
 1. Clone the Repository
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/Praneesh-Gattadi/Blink-Detection-System
 cd <repo-name>
 
 2. Run the Script
