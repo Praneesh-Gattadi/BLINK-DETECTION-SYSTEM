@@ -25,17 +25,16 @@ pip install opencv-python mediapipe numpy
 
 1. Clone the Repository
 git clone https://github.com/Praneesh-Gattadi/Blink-Detection-System
-cd <repo-name>
 
-2. Run the Script
+3. Run the Script
 python blink_detection.py
 
-3. Calibration
+4. Calibration
 Look straight at the camera.
 Keep your face steady and eyes open for ~2 seconds.
 The system will auto-calibrate EAR thresholds.
 
-4. Controls
+5. Controls
 Press q or Esc to quit.
 
 
